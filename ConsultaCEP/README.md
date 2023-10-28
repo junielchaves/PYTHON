@@ -1,9 +1,4 @@
 # A consultacep Flet app
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+Aplicativo de Busca de CEPs com validação em Python utilizando a biblioteca gráfica FLET 
+Projeto idealizado para fins de aprendizagem.
